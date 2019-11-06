@@ -1,0 +1,84 @@
+* {
+    font-family: 'Dosis','Arial';
+    font-size: 18px;
+}
+
+.shopping-cart {
+    width: 450px;
+    float: right;
+    background-color: white;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+.shopping-cart-header {
+    padding-bottom: 15px;
+    background-color: rgb(56, 55, 55);
+    color: white;
+}
+
+.shopping-cart-header p{
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 5px;
+}
+
+.apple-logo img {
+    height: 70px;
+    width: auto;
+    float: left;
+}
+
+.shopping-cart-items {
+    background-color: rgb(226, 223, 223);
+    margin-top: 10px;
+}
+
+.shopping-cart-items .apple-logo {
+    margin-left: 2px;
+    margin-top: 2px;
+    padding-top: 1px;
+    
+}
+
+.shopping-cart-items p {
+    margin-left: 100px;
+}
+
+.shopping-cart-items i {
+    margin-left: 1px;
+}
+
+.shopping-cart-items .icon-close {
+    font-size: 25px;
+}
+
+.shopping-cart-items .icon-minus {
+    margin-left: 25px;
+}
+
+.shopping-cart-items .minus-1 {
+
+    margin-left: 15px;
+ 
+}
+
+.shopping-cart-items .plus-icon {
+    margin-left: 15px;
+ 
+}
+
+.shopping-cart-items .icon-close {
+    font-size: 40px;
+    margin-left: 10px;
+ 
+}
+
+.shopping-cart-items .product-price {
+    margin-left: 10px;
+}
+
+.shopping-cart-items .total-product-price {
+    float: right;
+    padding-top: 20px;
+}
