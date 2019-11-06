@@ -44,3 +44,9 @@ padding: 5px;
     padding: 5px;
     margin-left: 2px;
 }
+
+@media only screen and (max-width: 600px) {
+    .item {
+        width: 100% !important;
+    }
+}
