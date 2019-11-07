@@ -50,6 +50,14 @@
     margin-left: 1px;
 }
 
+.shopping-cart-header .icon-close {
+    font-size: 35px;
+    float: right;
+    margin-top: -32px;
+    padding-right: 15px;
+    color: rgb(229, 226, 226);
+}
+
 .shopping-cart-items .icon-close {
     font-size: 25px;
 }
@@ -94,6 +102,7 @@
     background-color:  rgb(226, 223, 223);
     height: 70px;
     padding-top: 20px;
+    margin-bottom: 400px;
 }
 
 .lowest-price-gauranteed .lowest-price-logo {
